@@ -45,8 +45,8 @@ body {
 }
 
 .slide.active {
+  cursor: default;
   flex: 10;
-
 }
 
 .slide.active h3 {
